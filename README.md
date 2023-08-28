@@ -61,8 +61,26 @@ Act as a technical writer and explain the purpose, workflow, and configuration o
 
 Act as a developer  and generate API documentation for the [RESTful API/endpoint] in the given Node.js code, including supported HTTP methods, request/response formats, and authentication requirements: [code snippet].
 
+**Рефакторинг коду **
 
+Act as a Developer and suggest ways to improve the efficiency and readability of the [function/class/module] in the following TypeScript code: [code snippet].
 
+Act as a Developer and identify any code smells or antipatterns in the provided TypeScript code, suggesting alternative approaches for cleaner and more maintainable code: [code snippet].
 
+Act as a Developer and propose refactoring techniques to simplify the complex conditional statements and loops in the given JavaScript code: [code snippet].
+
+Act as a Developer and refactor the redundant code blocks and duplicate logic in the provided TypeScript code to improve code reusability and maintainability: [code snippet].
+
+Act as a Developer and suggest ways to enhance the performance and scalability of the [class/module] in the following TypeScript code, considering best practices and design patterns: [code snippet].
+
+Act as a Developer and propose a more concise and elegant implementation for the [function/class] in the given TypeScript code, eliminating any unnecessary complexity or repetition: [code snippet].
+
+Act as a Developer and identify opportunities for abstraction and modularization in the provided TypeScript code, making it more modular and easier to maintain: [code snippet].
+
+Act as a Developer and suggest improvements to the naming conventions, variable declarations, and code organization in the given TypeScript code to enhance code clarity and readability: [code snippet].
+
+Act as a Developer and propose refactoring techniques to optimize the database queries and improve the overall performance of the provided SQL script: [code snippet].
+
+Act as a Developer and suggest ways to make the code in the given TypeScript script more testable and decoupled, promoting better separation of concerns and code modularity: [code snippet].
 
 
