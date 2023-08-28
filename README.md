@@ -34,7 +34,32 @@ The function should take an array of items with their prices and quantities as i
 + Review the given [language] code for potential scalability issues: [code snippet];
 + Check the following [language] code for proper logging and monitoring practices: [code snippet].
 
+Act as a code reviewer and analyze my JavaScript code for a responsive website design.\
+Look for any potential performance issues or ways to optimize the code.
 
+Act as a code reviewer and assess the security of my application.\
+Check for any potential vulnerabilities or best practices that should be implemented.
+
+Act as a code reviewer for my JS application that handles database operations.\
+Please review the database design and query optimization strategies.
+
+Act as a code reviewer and analyze my SQL queries for a database-driven application.\
+Check for any potential security vulnerabilities or ways to improve query performance.
+
+
+**Документація**
+
+Act as a technical writer and explain the input parameters, output, and usage guidelines for the [function/class] in the given JavaScript code: [code snippet].
+
+Act as a developer and generate detailed documentation for the [API/library] in the following JavaScript code, including its methods, parameters, and return values: [code snippet].
+
+Act as a technical writer and describe the purpose, dependencies, and usage instructions for the [module/package] in the given JavaScript code: [code snippet].
+
+Act as a technical writer and provide detailed documentation for the [function/class] in the following TypeScript code, including its purpose, parameters, and usage examples: [code snippet].
+
+Act as a technical writer and explain the purpose, workflow, and configuration options of the [framework/library] in the provided TypeScript code: [code snippet].
+
+Act as a developer  and generate API documentation for the [RESTful API/endpoint] in the given Node.js code, including supported HTTP methods, request/response formats, and authentication requirements: [code snippet].
 
 
 
