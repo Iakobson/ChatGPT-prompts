@@ -29,6 +29,7 @@ The template should include placeholders for the blog post title, content, autho
 Act as a code generation tool and generate a JavaScript function that calculates the total price of a shopping cart.\
 The function should take an array of items with their prices and quantities as input.
 
+
 **Code review**
 + Analyze the given [language] code and suggest improvements: [code snippet];
 + Review the given [language] code for potential scalability issues: [code snippet];
@@ -61,7 +62,8 @@ Act as a technical writer and explain the purpose, workflow, and configuration o
 
 Act as a developer  and generate API documentation for the [RESTful API/endpoint] in the given Node.js code, including supported HTTP methods, request/response formats, and authentication requirements: [code snippet].
 
-**Рефакторинг коду **
+
+**Рефакторинг коду**
 
 Act as a Developer and suggest ways to improve the efficiency and readability of the [function/class/module] in the following TypeScript code: [code snippet].
 
@@ -82,5 +84,39 @@ Act as a Developer and suggest improvements to the naming conventions, variable 
 Act as a Developer and propose refactoring techniques to optimize the database queries and improve the overall performance of the provided SQL script: [code snippet].
 
 Act as a Developer and suggest ways to make the code in the given TypeScript script more testable and decoupled, promoting better separation of concerns and code modularity: [code snippet].
+
+
+**Проєктування системи та архітектура**
+
+Act as a system design and architecture consultant and provide guidance on designing a scalable and fault-tolerant distributed system.\
+Discuss key principles and patterns, such as load balancing, replication, and partitioning, that should be considered in the design.
+
+Act as a system design and architecture expert and outline the architectural components and their interactions for building a real-time chat application.\
+Consider aspects like message routing, data synchronization, and scalability in your design.
+
+Act as a system design and architecture consultant and propose an architecture for a cloud-based e-commerce platform.\
+Discuss how to handle high traffic, ensure data consistency, and incorporate features like user authentication and order processing.
+
+Act as a system design and architecture expert and explain the design considerations for building a microservices-based architecture.\
+Discuss topics like service decomposition, communication protocols, and fault tolerance in the design.
+
+Act as a system design and architecture consultant and design a data warehouse system for analyzing large volumes of data.\
+Discuss the selection of appropriate storage technologies, data ingestion processes, and query optimization techniques.
+
+Act as a system design and architecture expert and propose an architecture for a content delivery network (CDN) to efficiently serve multimedia content worldwide.\
+Discuss concepts like caching, edge servers, and content routing in your design.
+
+Act as a system design and architecture consultant and design a high-performance database system for a financial application.\
+Discuss strategies for data indexing, query optimization, and ensuring data integrity in the design.
+
+Act as a system design and architecture expert and propose an architecture for a scalable and secure IoT (Internet of Things) platform.\
+Discuss topics like device management, data processing, and authentication mechanisms in your design.
+
+Act as a system design and architecture consultant and design a fault-tolerant backup and disaster recovery system for a critical business application.\
+Discuss replication strategies, backup scheduling, and failover mechanisms in your design.
+
+Act as a system design and architecture expert and propose an architecture for a real-time analytics platform.\
+Discuss topics like data ingestion, stream processing, and visualization components in your design.
+
 
 
